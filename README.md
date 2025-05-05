@@ -1,6 +1,6 @@
 # Hi there, I'm Vivek Dudhatra 👋
 
-Welcome to my GitHub Profile!  
+Welcome to my GitHub Profile!
 I'm passionate about building awesome web applications and constantly learning new technologies.
 
 - 🔭 Currently working on full-stack projects
@@ -39,9 +39,15 @@ I'm passionate about building awesome web applications and constantly learning n
 
 ---
 
+## ⚙️ Recent Activity & Total Commits
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vivek1384&theme=radical)](https://git.io/streak-stats)
+[![GitHub Total Commits](https://img.shields.io/github/commits/vivek1384/vivek1384?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivek1384)
+
+---
+
 ## 🖥️ Keep Coding!
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/animateme.gif" width="350" alt="Coding GIF">
 
 ---
-
