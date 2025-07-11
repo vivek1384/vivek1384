@@ -41,7 +41,7 @@ I'm passionate about building awesome web applications and constantly learning n
 
 ## ⚙️ Recent Activity & Total Commits
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vivek1384&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vivek1384&theme=algolia)](https://git.io/streak-stats)
 [![GitHub Total Commits](https://img.shields.io/github/commits/vivek1384/vivek1384?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivek1384)
 
 ---
