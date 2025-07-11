@@ -21,9 +21,9 @@ I'm passionate about building awesome web applications and constantly learning n
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek1384&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek1384&show_icons=true&theme=algolia)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1384&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1384&layout=compact&theme=algolia)
 
 ---
 
